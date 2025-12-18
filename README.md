@@ -170,3 +170,16 @@ Unique Value Proposition:
 * Comfortable working with ambiguous business problems and structuring them into actionable analyses
 
 This project reflects practical readiness for entry-level Data Analyst and Business Analyst roles, with emphasis on real-world business impact, stakeholder communication, and analytical thinking.
+
+
+
+## Project Dashboard
+
+## Key Metrics
+| Metric | Value |
+| :--- | :--- |
+| **Total Orders** | 1,000 |
+| **Total Revenue** | ₹35,20,984.00 |
+| **Avg. Delivery Time** | 5.53 Days |
+
+![KPI Visuals](FNP-Dashboard.png)
